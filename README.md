@@ -5,7 +5,7 @@
 <b>Database</b> : Oracle  (includes procedures and triggers)</br>
 
 Master Robot is an online comic-book and movies store that was developed as a part of COEN280-Database Systems course at Santa Clara University, California in Fall 2022.
-The file "TheQuestions" provides the basic funstionalities achieved by the webpage.
+The file "TheQuestions" provides the basic functionalities achieved by the webpage.
 
 The project is centerd around the usage of the <b>Oracle database tables</b>. Focus was given to the <b>procedures and triggers</b> developed to achieve the necessary functionalitites.
 
